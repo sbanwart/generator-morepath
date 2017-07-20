@@ -3,7 +3,7 @@
 
 Yeoman generator for the Morepath Python microframework.
 
-[![Downloads](https://img.shields.io/npm/dm/generator-morepath.svg)](https://www.npmjs.com/package/generator-morepath) [![npm](https://img.shields.io/npm/v/generator-morepath.svg)](https://www.npmjs.com/package/hexo-auto-canonical) [![LICENSE](https://img.shields.io/npm/l/hexo-auto-canonical.svg)](LICENSE)
+[![Downloads](https://img.shields.io/npm/dm/generator-morepath.svg)](https://www.npmjs.com/package/generator-morepath) [![npm](https://img.shields.io/npm/v/generator-morepath.svg)](https://www.npmjs.com/package/generator-morepath) [![LICENSE](https://img.shields.io/npm/l/generator-morepath.svg)](LICENSE)
 
 ## Usage
 
