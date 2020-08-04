@@ -21,6 +21,6 @@
         "url": "https://scottbanwart.com/"
     },
     "dependencies": {
-        "yeoman-generator": "^4.8.2"
+        "yeoman-generator": "^4.11.0"
     }
 }
